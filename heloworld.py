@@ -1,1 +1,1 @@
-print(f"heloworld")
+print("heloworld")
